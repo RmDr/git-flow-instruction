@@ -57,7 +57,7 @@ master - Имя основной ветки. Там всегда должна н
 |`git diff commit_name_1 commit_name_2` | Показать разницу между commit_name_1 и commit_name_2|
 
 
-## Основной сценарий работы:
+## Основной сценарий работы
 Клонируем репозиторий: `git clone repository_address` (1 раз для репозитория)
 
 Создаем и переходим на эту ветку: `git checkout -b branch-name`
